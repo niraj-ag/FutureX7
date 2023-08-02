@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Agarwal</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">Just Learning 😁</h3>
 <p align="center"> <img src="Ramen.gif" height="359" width="600"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7"/> </p>
