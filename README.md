@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <p align="center"> <img src="Ramen.gif"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7" height="438" width="450"/> </p>
 
 
 
