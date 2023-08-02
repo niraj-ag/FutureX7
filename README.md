@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Agarwal</h1>
-<!-- <h3 align="center">Just Learning 😁</h3> -->
+<h3 align="center" id="demo">Just Learning 😁</h3>
 <script>
 var i = 0;
 var txt = 'Just Learning 😁';
