@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Agarwal</h1>
-<h3 align="center">Just Learning 😁</h3>
+<!-- <h3 align="center">Just Learning 😁</h3> -->
+<script>
+var i = 0;
+var txt = 'Just Learning 😁';
+var speed = 50;
+
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
 <p align="center"> <img src="Ramen.gif" height="359" width="600"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7"/> </p>
