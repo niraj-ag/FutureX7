@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar Agarwal</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<p align="center"> <img src="https://pin.it/3fSRkFq](https://pin.it/3r0ChFc](https://cdn.discordapp.com/attachments/894797204546527314/1136214882870632549/Ramen.gif"> </p>
+<p align="center"> <img src="https://cdn.discordapp.com/attachments/894797204546527314/1136214882870632549/Ramen.gif"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=futurex7&label=Profile%20views&color=0e75b6&style=flat" alt="futurex7" /> </p>
 
